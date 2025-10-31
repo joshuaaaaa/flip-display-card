@@ -62,15 +62,19 @@ entity: sensor.temperature
 
 ```yaml
 type: custom:flip-display-card
-entity: sensor.power_consumption
-digits_per_card: 1          # 1 or 2 (default: 2)
-hideBackground: false        # true or false (default: false)
-tap_action:
-  action: more-info
+entity: sensor.time
+hideBackground: false
+digits_per_card: 1
 styles:
-  fontSize: 3em
-  height: 2em
-  color: '#ff6600'
+  width: 50%
+  fontSize: 15cqw
+  height: 30cqw
+  textColor: "#ff5722"
+  frontFlapColor: "#263238"
+  rearFlapColor: "#1a1a1a"
+  textOffsetVertical: 0.05em
+  frontFlapShadowOpacity: 0.6
+
 ```
 
 ## Configuration Options
