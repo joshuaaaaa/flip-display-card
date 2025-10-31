@@ -1,5 +1,6 @@
 # Flip Display Card for Home Assistant
-[🇬🇧 English](README.md) | [🇨🇿 Čeština](README.cs.md)
+[🇬🇧 English](README.md) | [🇨🇿 Čeština](README_cs.md)
+
 A custom Home Assistant card that displays sensor values with a beautiful flip animation effect, similar to classic split-flap displays found in train stations and airports.
 
 ## Features
