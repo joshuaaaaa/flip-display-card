@@ -153,7 +153,8 @@ You can customize the appearance using the `styles` property. Common options:
 
 ## Credits
 
-Built with [PQINA Tick](https://pqina.nl/tick/) library for the flip animation effect.
+Built with [PQINA Tick](https://pqina.nl/tick/) library for the flip animation effect and https://github.com/pmongloid/flipdown-timer-card.
+
 
 ## License
 
@@ -165,8 +166,7 @@ If you like this card, please ⭐ star this repository!
 
 Found a bug or have a feature request? Please open an issue.
 
-## Credits
-This card is based on the work of https://github.com/pmongloid/flipdown-timer-card
+
 
 ## http://buymeacoffee.com/jakubhruby
 
