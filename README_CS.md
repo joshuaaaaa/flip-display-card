@@ -156,3 +156,8 @@ MIT License
 Pokud se vám tato karta líbí, prosím ⭐ označte tento repozitář hvězdičkou!
 
 Našli jste chybu nebo máte nápad na vylepšení? Vytvořte prosím issue.
+
+## http://buymeacoffee.com/jakubhruby
+
+
+<img width="150" height="150" alt="qr-code" src="https://github.com/user-attachments/assets/2581bf36-7f7d-4745-b792-d1abaca6e57d" />
