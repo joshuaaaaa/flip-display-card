@@ -165,6 +165,9 @@ If you like this card, please ⭐ star this repository!
 
 Found a bug or have a feature request? Please open an issue.
 
+## Credits
+This card is based on the work of https://github.com/pmongloid/flipdown-timer-card
+
 ## http://buymeacoffee.com/jakubhruby
 
 
