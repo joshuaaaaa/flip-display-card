@@ -15,6 +15,8 @@ A custom Home Assistant card that displays sensor values with a beautiful flip a
 
 ## Preview
 
+<img width="527" height="231" alt="image" src="https://github.com/user-attachments/assets/33007d9a-aeda-4aed-93de-4097ef3c2212" />
+
 **Single digit per card:**
 ```
 ┌───┐ ┌───┐ ┌───┐ ┌───┐
