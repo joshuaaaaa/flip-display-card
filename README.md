@@ -40,12 +40,12 @@ A custom Home Assistant card that displays sensor values with a beautiful flip a
 4. Add the card to your Lovelace configuration
 
 ### Manual Installation
-1. Download `flip-display-card.js`
-2. Copy it to `/config/www/` folder
+1. Download all files 
+2. Copy it to `/config/www/flip-display-card` folder
 3. Add resource reference in Lovelace:
 ```yaml
 resources:
-  - url: /local/flip-display-card.js
+  - url: /local/flip-display-card/dist/flip-display-card.js
     type: module
 ```
 
