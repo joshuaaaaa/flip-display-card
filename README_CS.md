@@ -36,12 +36,12 @@ Vlastní karta pro Home Assistant, která zobrazuje hodnoty senzorů s krásnou 
 4. Přidejte kartu do vaší Lovelace konfigurace
 
 ### Manuální instalace
-1. Stáhněte soubor `flip-display-card.js`
-2. Zkopírujte ho do složky `/config/www/`
+1. Stáhněte všechny soubory
+2. Zkopírujte ho do složky `/config/www/flip-display-card`
 3. Přidejte odkaz na zdroj v Lovelace:
 ```yaml
 resources:
-  - url: /local/flip-display-card.js
+  - url: /local/flip-display-card/dist/flip-display-card.js
     type: module
 ```
 
