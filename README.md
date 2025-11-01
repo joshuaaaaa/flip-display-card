@@ -30,6 +30,8 @@ A custom Home Assistant card that displays sensor values with a beautiful flip a
 │ 01 │ │ 02 │ │ 04 │ │ 09 │
 └────┘ └────┘ └────┘ └────┘
 ```
+For time use **https://github.com/Thyraz/pqina-flip-clock-card**
+
 
 ## Installation
 
