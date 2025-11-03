@@ -40,6 +40,13 @@ For time use **https://github.com/Thyraz/pqina-flip-clock-card**
 2. Search for "Flip Display Card" in HACS
 3. Install the card
 4. Add the card to your Lovelace configuration
+5. Add resource reference in Lovelace:
+```yaml
+resources:
+  - url: /hacsfiles/flip-display-card/flip-display-card.js
+    type: module
+```
+
 
 ### Manual Installation
 1. Download all files 
