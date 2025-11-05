@@ -70,6 +70,7 @@ type: custom:flip-display-card
 entity: sensor.time
 hideBackground: false
 digits_per_card: 1
+number_of_cards: 4
 styles:
   width: 50%
   fontSize: 15cqw
@@ -88,9 +89,22 @@ styles:
 |--------|------|---------|-------------|
 | `entity` | string | **required** | Entity ID to display |
 | `digits_per_card` | number | `2` | Number of digits per card (1 or 2) |
+| `number_of_cards` | number | `4` | Number of digits per card (1-99) |
 | `hideBackground` | boolean | `false` | Hide card background |
 | `tap_action` | object | - | Action to perform on tap |
 | `styles` | object | - | Custom CSS properties |
+
+number_of_cards: 3
+
+### Number of Card
+
+- **`number_of_cards: 1`** - Shows 3 cards with 1 digit each (0-9)
+  - Displays up to 4-digit numbers
+  - Example: `63` → `0` `6` `3`
+  
+- **`number_of_cards: 2`** - Shows 4 cards with 2 digits each (00-99)
+  - Displays up to 8-digit numbers
+  - Example: `1234567` → `01` `23` `45` `67`
 
 ### Digits Per Card
 
@@ -101,6 +115,7 @@ styles:
 - **`digits_per_card: 2`** - Shows 4 cards with 2 digits each (00-99)
   - Displays up to 8-digit numbers
   - Example: `1234567` → `01` `23` `45` `67`
+
 
 ## Examples
 
